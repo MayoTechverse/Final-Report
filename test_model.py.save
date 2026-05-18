@@ -1,0 +1,7 @@
+import joblib
+import pandas as pd
+model = joblib.load("gb_ids_model.pkl")
+print("model loaded sucessfully!")
+
+
+
