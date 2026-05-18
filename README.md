@@ -14,6 +14,11 @@ The system combines:
 
 to develop an efficient IDS capable of operating within constrained IoT environments.
 
+Note: The CIC-IoT2023 dataset was not uploaded to this repository due to its large size.
+
+
+
+
 ---
 
 ## Research Objectives
